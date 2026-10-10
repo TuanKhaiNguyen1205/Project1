@@ -1,6 +1,6 @@
 <?php
 $drinkName = "Salt Coffee";
-$unitPrice = 45000;
-$rawQuantity = "3";
-$customerStatus = "GUEST";
+$unitPrice = 50000;
+$rawQuantity = "2";
+$customerStatus = "MEMBER";
 $productAvailable = true;
